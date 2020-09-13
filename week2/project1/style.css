@@ -1,0 +1,19 @@
+.headline > h1 {
+    color: darkgreen;
+}
+#Georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 20px 0 0;
+}
